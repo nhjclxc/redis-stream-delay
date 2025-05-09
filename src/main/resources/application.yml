@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: redis-stream-delay
+  redis:
+    host: 111.222.333.555
+    port: 6379
+    database: 0
+    password: root123
